@@ -34,43 +34,10 @@
 <br/>
 <hr/>
 
-**I'm a Night 🦉** 
-
-```text
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
 
 
 
-```
 
-**I Mostly Code in JavaScript** 
-
-```text
-
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/SouravArefin/SouravArefin/master/assets/bar_graph.png)
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2027%20mins-blue)
 
@@ -154,3 +121,9 @@ PHP                      4 repos             █░░░░░░░░░░�
 
  Last Updated on 01/01/2024 08:54:40 UTC
 <!--END_SECTION:waka-->
+
+<br/>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
