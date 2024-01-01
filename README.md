@@ -17,8 +17,11 @@
   <a href="https://www.linkedin.com/in/sourav-arefin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/SouravArefin" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.facebook.com/profile.php?id=100013452185380" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://souravarefin.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
