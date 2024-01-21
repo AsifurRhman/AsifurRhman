@@ -50,6 +50,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 111 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -83,18 +85,16 @@ Sunday                   150 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          █████████████████████████   99.14 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-food-ordering-app        1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +114,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravArefin/SouravArefin/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2024 18:36:18 UTC
+ Last Updated on 21/01/2024 18:37:24 UTC
 <!--END_SECTION:waka-->
 
 <br/>
