@@ -50,8 +50,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -114,7 +112,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SouravArefin/SouravArefin/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 18:35:15 UTC
+ Last Updated on 20/02/2024 18:36:44 UTC
 <!--END_SECTION:waka-->
 
 <br/>
